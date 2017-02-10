@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Raathigesh/Atmo/master/docs/AtmoLogo.png" alt="Atmo" height="300">
+  <img src="https://raw.githubusercontent.com/Raathigesh/Atmo/master/docs/AtmoRevamp.png" alt="Atmo" height="600">
    <br>
   <h4 align="center">Server Side Api Mocking made easy with UI</h4>
 </h1>
 
 <p align="center">
   <a href="https://travis-ci.org/Raathigesh/Atmo">
-    <img src="https://img.shields.io/travis/Raathigesh/Atmo.svg?style=flat-square"
+    <img src="https://img.shields.io/travis/Raathigesh/atmo.svg?style=flat-square"
          alt="Travis Build">
   </a>
   <a href="https://github.com/Raathigesh/Atmo/blob/master/LICENSE">
