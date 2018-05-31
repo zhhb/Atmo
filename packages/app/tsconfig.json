@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "removeComments": true,
+    "jsx": "react",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es5",
+    "experimentalDecorators": true
+  },
+  "awesomeTypescriptLoaderOptions": {
+    "useBabel": true
+  }
+}
